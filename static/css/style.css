@@ -1,0 +1,67 @@
+h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 4rem;
+    text-align: center;
+    margin: 2rem 1rem;
+}
+
+body {
+    text-align: center;
+}
+
+#swapPart {
+    margin: 5rem 5rem;
+    padding: 4rem 6rem;
+    border: 0.25rem;
+    border-radius: 0.25rem;
+    border-style: dashed;
+    border-color: black;
+}
+
+#resultArea {
+    margin: 5rem 5rem;
+    padding: 4rem 6rem;
+    border: 0.25rem;
+    border-radius: 0.25rem;
+    border-style: dashed;
+    border-color: black;
+}
+
+h3 {
+    margin: 0rem 2rem 2rem;
+}
+
+h4 {
+    margin: 0.75rem;
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+    color: darkblue;
+}
+
+#testPart {
+    margin: 8rem 5rem;
+    padding: 4rem 6rem 2rem 6rem;
+    border: 0.25rem;
+    border-radius: 0.25rem;
+    border-style: dashed;
+    border-color: black;
+}
+
+.btn {
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+
+.d2 {
+    margin: 2rem 1rem;
+    padding: 0.5rem;
+    border-style: dashed;
+    border-radius: 4rem;
+    border-color: black;
+}
+
+h6 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: bold;
+    color: red;
+}
